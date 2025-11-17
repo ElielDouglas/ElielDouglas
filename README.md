@@ -11,17 +11,6 @@
 
 Sou **Engenheiro de Software** com experiência em desenvolvimento Full Stack, apaixonado por criar soluções tecnológicas inovadoras e eficientes. Atualmente trabalhando na **Eloverde**, onde desenvolvo aplicações robustas utilizando as mais modernas tecnologias do mercado.
 
-## 💼 Experiência Profissional
-
-### 🔹 Eloverde | Engenheiro de Software
-*Desenvolvendo soluções completas com foco em qualidade e performance*
-
-### 🔹 CoreBiz | Desenvolvedor Full Stack
-*Experiência com desenvolvimento end-to-end de aplicações web*
-
-### 🔹 Orion | Desenvolvedor Full Stack
-*Contribuindo para projetos escaláveis e de alta performance*
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Frontend
@@ -95,7 +84,6 @@ Sou **Engenheiro de Software** com experiência em desenvolvimento Full Stack, a
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDouglas&layout=compact&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ElielDouglas&theme=tokyonight)
 
 </div>
 
@@ -149,11 +137,3 @@ const eliel = {
 - 🌐 Portfolio: *em breve*
 
 ---
-
-<div align="center">
-  
-### 💭 *"Código limpo não é escrito seguindo regras. Você não se torna um desenvolvedor por aprender uma lista de 'faça e não faça'. Você se torna um profissional aprendendo a trabalhar duro e praticando."* - Robert C. Martin
-
-![Profile Views](https://komarev.com/ghpvc/?username=ElielDouglas&color=blue&style=flat-square)
-
-</div>
