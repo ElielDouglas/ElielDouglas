@@ -52,7 +52,7 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 <div align="left">
 
 ### 🎯 Pós-Graduação Lato Sensu em Testes de Software
-**Universidade Cruzeiro do Sul** | 2023 - 2024
+**Universidade Cruzeiro do Sul** | Concluído
 - Especialização em qualidade de software e estratégias de testes
 - Automação de testes e práticas de QA
 - Testes unitários, integração e end-to-end
