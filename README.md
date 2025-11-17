@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieldouglas-47a27b206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-douglas-47a27b206/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliel238@hotmail.com)
 
 </div>
@@ -132,7 +132,7 @@ const eliel = {
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elieldouglas-47a27b206)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eliel-douglas-47a27b206/)
 - 📧 [Email](mailto:eliel238@hotmail.com)
 - 🌐 Portfolio: *em breve*
 
