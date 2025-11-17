@@ -140,8 +140,6 @@ const eliel = {
 
 <div align="center">
   
-### 💭 *"Código limpo não é escrito seguindo regras. Você não se torna um desenvolvedor por aprender uma lista de 'faça e não faça'. Você se torna um profissional aprendendo a trabalhar duro e praticando."* - Robert C. Martin
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ElielDouglas&color=blue&style=flat-square)
 
 </div>
