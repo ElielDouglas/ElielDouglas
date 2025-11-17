@@ -15,6 +15,7 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,6 +25,7 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -84,7 +86,6 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ElielDouglas&layout=compact&theme=tokyonight)
 
-
 </div>
 
 ## 🌐 Idiomas
@@ -96,15 +97,15 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 
 ```javascript
 const eliel = {
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  code: ["JavaScript", "TypeScript", "PHP", "Python", "Java"],
   technologies: {
     frontend: {
-      frameworks: ["React", "Next.js"],
+      frameworks: ["React", "Angular", "Next.js"],
       styling: ["Tailwind CSS", "Styled Components", "CSS3"]
     },
     backend: {
-      runtime: ["Node.js"],
-      frameworks: ["NestJS", "Express"],
+      runtime: ["Node.js", "PHP"],
+      frameworks: ["NestJS", "Laravel", "Express"],
       databases: ["PostgreSQL", "MongoDB", "MySQL"]
     },
     devOps: ["AWS", "Docker", "Kubernetes", "CI/CD"],
@@ -136,3 +137,11 @@ const eliel = {
 - 🌐 Portfolio: *em breve*
 
 ---
+
+<div align="center">
+  
+### 💭 *"Código limpo não é escrito seguindo regras. Você não se torna um desenvolvedor por aprender uma lista de 'faça e não faça'. Você se torna um profissional aprendendo a trabalhar duro e praticando."* - Robert C. Martin
+
+![Profile Views](https://komarev.com/ghpvc/?username=ElielDouglas&color=blue&style=flat-square)
+
+</div>
