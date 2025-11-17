@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Engenheiro de Software** com experiência em desenvolvimento Full Stack, apaixonado por criar soluções tecnológicas inovadoras e eficientes. Atualmente trabalhando na **Eloverde**, onde desenvolvo aplicações robustas utilizando as mais modernas tecnologias do mercado.
+Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Full Stack, apaixonado por criar soluções tecnológicas inovadoras e eficientes. Atualmente trabalhando na **Eloverde**, onde desenvolvo aplicações robustas utilizando as mais modernas tecnologias do mercado.
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -91,7 +91,6 @@ Sou **Engenheiro de Software** com experiência em desenvolvimento Full Stack, a
 
 - 🇧🇷 **Português**: Nativo
 - 🇺🇸 **Inglês**: Avançado
-- 🇪🇸 **Espanhol**: Intermediário
 
 ## 💡 Competências Principais
 
