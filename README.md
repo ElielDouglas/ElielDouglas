@@ -71,13 +71,6 @@ Sou **Engenheiro de Software** com 6 anos de experiência em desenvolvimento Ful
 
 </div>
 
-## 🏆 Certificações
-
-- ✅ Full Stack Development
-- ✅ AWS Cloud Practitioner
-- ✅ DevOps Fundamentals
-- ✅ Especialista em Testes de Software
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
