@@ -17,7 +17,7 @@ Sou **Engenheiro de Software Backend** com 6 anos de experiência em desenvolvim
 - 🔒 **Voz ativa** nas definições de **arquitetura, pacotes e segurança** do BFF
 - 🧪 Responsável direto pela **organização da esteira de testes automatizados**
 - 🚧 **Identificação e gestão** de gargalos e impedimentos técnicos
-- 👥 **Mentoria e delegação** de demandas para o desenvolvedor Node Pleno
+- 👥 **Mentoria e delegação** de demandas para outros desenvolvedores 
 - 📋 Apoio na **organização e priorização** das demandas do time
 
 ## 🛠️ Stack Principal
@@ -37,7 +37,7 @@ Sou **Engenheiro de Software Backend** com 6 anos de experiência em desenvolvim
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
 
-### Frontend (Apoio)
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
