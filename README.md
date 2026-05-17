@@ -11,6 +11,15 @@
 
 Sou **Engenheiro de Software Backend** com 6 anos de experiência em desenvolvimento de aplicações, com forte background em **PHP/Laravel** e atualmente focado em **Node.js com NestJS**. Trabalho na **Raro Labs** como desenvolvedor backend, construindo APIs robustas, escaláveis e bem testadas. Apaixonado por arquitetura de software, código limpo e boas práticas de engenharia.
 
+### 🎯 Principais Responsabilidades
+
+- 🏗️ **Liderança técnica** na implementação da camada de **BFF (Backend for Frontend)** e no design de microsserviços escaláveis
+- 🔒 **Voz ativa** nas definições de **arquitetura, pacotes e segurança** do BFF
+- 🧪 Responsável direto pela **organização da esteira de testes automatizados**
+- 🚧 **Identificação e gestão** de gargalos e impedimentos técnicos
+- 👥 **Mentoria e delegação** de demandas para o desenvolvedor Node Pleno
+- 📋 Apoio na **organização e priorização** das demandas do time
+
 ## 🛠️ Stack Principal
 
 ### Backend
@@ -63,12 +72,6 @@ Sou **Engenheiro de Software Backend** com 6 anos de experiência em desenvolvim
 - Desenvolvimento de software
 - Engenharia de software
 - Banco de dados e arquitetura de sistemas
-
-### 🔧 Técnico em Informática para Internet
-**Universidade Cruzeiro do Sul** | 2020 - 2022
-- Fundamentos de programação web
-- Desenvolvimento frontend e backend
-- Redes e infraestrutura
 
 </div>
 
